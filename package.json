@@ -1,0 +1,14 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "murtaza",
+  "license": "ISC",
+  "description": "react calculator",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
